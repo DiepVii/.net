@@ -1,0 +1,35 @@
+D:\C#\Chuong2\Ví dụ 3.3\Ví dụ 3.3\bin\Debug\Ví dụ 3.3.exe.config
+D:\C#\Chuong2\Ví dụ 3.3\Ví dụ 3.3\bin\Debug\Ví dụ 3.3.exe
+D:\C#\Chuong2\Ví dụ 3.3\Ví dụ 3.3\bin\Debug\Ví dụ 3.3.pdb
+D:\C#\Chuong2\Ví dụ 3.3\Ví dụ 3.3\obj\Debug\B1809209.csproj.AssemblyReference.cache
+D:\C#\Chuong2\Ví dụ 3.3\Ví dụ 3.3\obj\Debug\Ví_dụ_3._3.frmMain.resources
+D:\C#\Chuong2\Ví dụ 3.3\Ví dụ 3.3\obj\Debug\Ví_dụ_3._3.FrmLogin.resources
+D:\C#\Chuong2\Ví dụ 3.3\Ví dụ 3.3\obj\Debug\Ví_dụ_3._3.Properties.Resources.resources
+D:\C#\Chuong2\Ví dụ 3.3\Ví dụ 3.3\obj\Debug\B1809209.csproj.GenerateResource.cache
+D:\C#\Chuong2\Ví dụ 3.3\Ví dụ 3.3\obj\Debug\B1809209.csproj.CoreCompileInputs.cache
+D:\C#\Chuong2\Ví dụ 3.3\Ví dụ 3.3\obj\Debug\Ví dụ 3.3.exe
+D:\C#\Chuong2\Ví dụ 3.3\Ví dụ 3.3\obj\Debug\Ví dụ 3.3.pdb
+D:\C#\Project\Ví dụ 3.3\bin\Debug\Ví dụ 3.3.exe.config
+D:\C#\Project\Ví dụ 3.3\bin\Debug\Ví dụ 3.3.exe
+D:\C#\Project\Ví dụ 3.3\bin\Debug\Ví dụ 3.3.pdb
+D:\C#\Project\Ví dụ 3.3\obj\Debug\B1809209.csproj.AssemblyReference.cache
+D:\C#\Project\Ví dụ 3.3\obj\Debug\Ví_dụ_3._3.frmMain.resources
+D:\C#\Project\Ví dụ 3.3\obj\Debug\Ví_dụ_3._3.FrmLogin.resources
+D:\C#\Project\Ví dụ 3.3\obj\Debug\Ví_dụ_3._3.Properties.Resources.resources
+D:\C#\Project\Ví dụ 3.3\obj\Debug\B1809209.csproj.GenerateResource.cache
+D:\C#\Project\Ví dụ 3.3\obj\Debug\B1809209.csproj.CoreCompileInputs.cache
+D:\C#\Project\Ví dụ 3.3\obj\Debug\Ví dụ 3.3.exe
+D:\C#\Project\Ví dụ 3.3\obj\Debug\Ví dụ 3.3.pdb
+D:\C#\Project\Ví dụ 3.3\obj\Debug\Ví_dụ_3._3.FrmView.resources
+D:\C#\Project\Ví dụ 3.3\obj\Debug\Ví_dụ_3._3.FrmTp.resources
+D:\C#\Project\Ví dụ 3.3\obj\Debug\Ví_dụ_3._3.Frmkhachhang.resources
+D:\C#\Project\Ví dụ 3.3\obj\Debug\Ví_dụ_3._3.FrmNhanVien.resources
+D:\C#\Project\Ví dụ 3.3\obj\Debug\Ví_dụ_3._3.FrmSanPham.resources
+D:\C#\Project\Ví dụ 3.3\obj\Debug\Ví_dụ_3._3.FrmHoaDon.resources
+D:\C#\Project\Ví dụ 3.3\obj\Debug\Ví_dụ_3._3.FrmChiTietHoaDon.resources
+D:\C#\Project\Ví dụ 3.3\obj\Debug\Ví_dụ_3._3.FrmKhachHang_ThanhPho.resources
+D:\C#\Project\Ví dụ 3.3\obj\Debug\Ví_dụ_3._3.FrmHoaDon_KhachHang.resources
+D:\C#\Project\Ví dụ 3.3\obj\Debug\Ví_dụ_3._3.FrmHoaDon_NhanVien.resources
+D:\C#\Project\Ví dụ 3.3\obj\Debug\Ví_dụ_3._3.FrmChiTietHoaDon_HoaDon.resources
+D:\C#\Project\Ví dụ 3.3\obj\Debug\Ví_dụ_3._3.FrmChiTietHoaDon_SanPham.resources
+D:\C#\Project\Ví dụ 3.3\obj\Debug\Ví_dụ_3._3.FrmDaCap.resources
